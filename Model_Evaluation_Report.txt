@@ -1,0 +1,21 @@
+Evaluation Report (Metrics used - Cross Validation)
+
+Model 1: Random Forest Regressor (imported from ensemble module)
+
+Scores:  [2.78925325 2.66729711 4.42192445 2.58703606 3.34746008 2.62687526 4.72416589 3.27447122 3.37131467 3.18152313]
+Mean:     3.299132112011134
+Standard Deviation:  0.702251511253571
+
+
+Model 2: Decision Tree Regressor (imported from tree module)
+
+Scores:  [3.65606746 5.61066058 5.19349969 3.76087042 4.23007092 2.91847563 5.16522023 3.39064891 3.28131071 4.14816224]
+Mean:  4.135498679827473
+Standard Deviation:  0.8660648659725593
+
+
+Model 3: Linear Regression (imported from linear_model module)
+
+Scores:  [4.21288963 4.26127952 5.10583168 3.82862407 5.35000845 4.37934996 7.47169684 5.4825219  4.1498861  6.06711144]
+Mean:  5.03091995882208
+Standard Deviation:  1.0606723198235009
