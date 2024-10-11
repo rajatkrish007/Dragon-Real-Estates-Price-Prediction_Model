@@ -136,7 +136,7 @@ Running the Project:
 The Random Forest Regressor provided the most accurate predictions with a low RMSE and outperformed other models.
 
 
-- Statistical Report:
+Statistical Report:
 
 The statistical report attached in this repository contains:
 
@@ -155,8 +155,11 @@ Summary of all models: Linear Regression, Decision Tree, and Random Forest. Perf
 ### Repository Structure:
 
  ├── Housing_Data.csv            # Dataset
+ 
  ├── Real_Estate_Model.ipynb     # Jupyter notebook containing the model code
+ 
  ├── Statistical_Report.pdf      # Detailed statistical report of models
+ 
  └── README.md                   # Project overview and instructions
 
 #
