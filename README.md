@@ -54,8 +54,8 @@ Dataset Summary:
 The dataset was split into training and testing sets using two methods:
 
 
-    Custom Train-Test Split: Implemented a random shuffle split for a balanced distribution.
-    Stratified Shuffle Split: Ensured the CHAS feature is evenly distributed across training and test sets to avoid bias.
+- Custom Train-Test Split: Implemented a random shuffle split for a balanced distribution.
+- Stratified Shuffle Split: Ensured the CHAS feature is evenly distributed across training and test sets to avoid bias.
 
 
 #### 3. Model Development
