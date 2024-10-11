@@ -13,26 +13,27 @@ The company seeks to automate the traditionally manual and error-prone process o
 
 The dataset consists of 506 observations of real estate properties with the following attributes:
 
-    CRIM: Crime rate per capita by town.
-    ZN: Proportion of residential land zoned for large lots.
-    INDUS: Proportion of non-retail business acres per town.
-    CHAS: Proximity to the Charles River (1 if the property borders the river, 0 otherwise).
-    NOX: Nitric oxide concentration (air pollution).
-    RM: Average number of rooms per dwelling.
-    AGE: Proportion of owner-occupied units built before 1940.
-    DIS: Weighted distances to five Boston employment centers.
-    RAD: Index of accessibility to radial highways.
-    TAX: Property tax rate per $10,000.
-    PTRATIO: Pupil-teacher ratio by town.
-    B: Proportion of Black population in the town.
-    LSTAT: Percentage of lower-status population.
-    MEDV: Median value of homes (target variable).
+CRIM: Crime rate per capita by town.
+ZN: Proportion of residential land zoned for large lots.
+INDUS: Proportion of non-retail business acres per town.
+CHAS: Proximity to the Charles River (1 if the property borders the river, 0 otherwise).
+NOX: Nitric oxide concentration (air pollution).
+RM: Average number of rooms per dwelling.
+AGE: Proportion of owner-occupied units built before 1940.
+DIS: Weighted distances to five Boston employment centers.
+RAD: Index of accessibility to radial highways.
+TAX: Property tax rate per $10,000.
+PTRATIO: Pupil-teacher ratio by town.
+B: Proportion of Black population in the town.
+LSTAT: Percentage of lower-status population.
+MEDV: Median value of homes (target variable).
 
+#
 Dataset Summary:
 
-    Total Records: 506 properties.
-    Missing Values: The dataset has very few missing values, particularly in the RM column (3 missing values).
-    Features: 13 independent features, with MEDV as the target variable for house prices.
+- Total Records: 506 properties.
+- Missing Values: The dataset has very few missing values, particularly in the RM column (3 missing values).
+- Features: 13 independent features, with MEDV as the target variable for house prices.
     
 #
 
