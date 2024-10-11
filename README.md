@@ -3,7 +3,7 @@
 #
 
 ### Project Overview:
-
+#
 The Dragon Real Estates Price Prediction Model is developed for Dragon Real Estates, a hypothetical company striving to revolutionize the real estate industry by automating property price analysis. Dragon Real Estates aims to leverage machine learning models to provide faster and more accurate property valuations, helping buyers, sellers, and agents make informed decisions based on comprehensive data insights.
 
 The company seeks to automate the traditionally manual and error-prone process of property price prediction, ensuring more accurate forecasts by considering various factors such as crime rates, pollution levels, property taxes, and proximity to essential amenities. This project represents a crucial step toward achieving that vision by building a predictive model using advanced machine learning techniques.
