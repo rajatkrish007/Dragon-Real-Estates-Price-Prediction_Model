@@ -57,7 +57,7 @@ The dataset was split into training and testing sets using two methods:
 - Custom Train-Test Split: Implemented a random shuffle split for a balanced distribution.
 - Stratified Shuffle Split: Ensured the CHAS feature is evenly distributed across training and test sets to avoid bias.
 
-
+#
 #### 3. Model Development
 
 Three machine learning models were used for prediction:
@@ -73,25 +73,25 @@ Three machine learning models were used for prediction:
 
 The following metrics were used to evaluate all models:
 
-    Mean Squared Error (MSE)
-    Root Mean Squared Error (RMSE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
 
 #### 5. Model Scores and Statistics
 
-    Linear Regression:
+ I) Linear Regression:
         
-        Mean MSE: 25.64
-        Standard Deviation: 4.15
+- Mean MSE: 25.64
+- Standard Deviation: 4.15
 
-    Decision Tree Regressor:
+ II) Decision Tree Regressor:
     
-        Mean MSE: 28.12
-        Standard Deviation: 3.85
+- Mean MSE: 28.12
+- Standard Deviation: 3.85
 
-    Random Forest Regressor:
+III) Random Forest Regressor:
 
-        Mean MSE: 18.45
-        Standard Deviation: 2.91
+- Mean MSE: 18.45
+- Standard Deviation: 2.91
         
 #
 
