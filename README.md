@@ -11,7 +11,7 @@ The company seeks to automate the traditionally manual and error-prone process o
 
 #
 ### Dataset Source:
-
+#
 The dataset consists of 506 observations of real estate properties with the following attributes:
 
 - CRIM: Crime rate per capita by town.
@@ -39,7 +39,7 @@ Dataset Summary:
 #
 
 ### Project Workflow:
-
+#
 #### 1. Data Preprocessing
 
 - Data Cleaning: Handling missing values in the RM(Average number of rooms) column. 
